@@ -1,4 +1,4 @@
-import PySimpleGUI as PSG
+import PySimpleGUI as GUI
 
 # i like mii brawler
 # shot put is overpowered
