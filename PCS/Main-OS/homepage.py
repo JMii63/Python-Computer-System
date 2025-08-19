@@ -1,5 +1,3 @@
-import PySimpleGUI as GUI
+import FreeSimpleGUI as sg
 
-# i like mii brawler
-# shot put is overpowered
-# that's all
+#nothing here right now
