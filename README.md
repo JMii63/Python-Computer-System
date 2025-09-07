@@ -8,10 +8,6 @@ Please refer to todo-list.md for tasks if you can't find anything :)
 
 Prototype text for things you haven't coded in yet (don't ask why):
 
-"i like mii brawler
-
-shot put is overpowered
-
-that's all"
+"42 is the answer to the universe"
 
 If you figured out how to compile this, please edit this README file to include instructions. I barely understand what compiling IS.
