@@ -6,8 +6,4 @@ If you find an issue, fork the repository, fix the issue, and open an issue unde
 
 Please refer to todo-list.md for tasks if you can't find anything :)
 
-Prototype text for things you haven't coded in yet (don't ask why):
-
-"42 is the answer to the universe"
-
 If you figured out how to compile this, please edit this README file to include instructions. I barely understand what compiling IS.
